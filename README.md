@@ -29,8 +29,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE :
 
-##### DEVELOPED BY : MUKESH V
-##### REG NO : 212222230086
+##### DEVELOPED BY : kamali E
+##### REG NO : 212222110015
 
 ### Loading the dataset :
 ``` python
